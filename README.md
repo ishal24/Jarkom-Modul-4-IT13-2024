@@ -53,7 +53,7 @@
 ![Subnet_H](https://github.com/ishal24/Jarkom-Modul-4-IT13-2024/blob/main/img/subnet/Subnet%20H.png)
 ![Subnet_H](https://github.com/ishal24/Jarkom-Modul-4-IT13-2024/blob/main/img/penggabungan/H.png)
 
-- Penggabungan Subnet kedelapan (Subnet J)
+- Penggabungan Subnet kedelapan (Subnet I)
 ![Subnet_I](https://github.com/ishal24/Jarkom-Modul-4-IT13-2024/blob/main/img/subnet/Subnet%20I.png)
 ![Subnet_I](https://github.com/ishal24/Jarkom-Modul-4-IT13-2024/blob/main/img/penggabungan/I.png)
 
@@ -66,5 +66,8 @@
 ![Subnet_K](https://github.com/ishal24/Jarkom-Modul-4-IT13-2024/blob/main/img/penggabungan/K.png)
 
 ### 5.b. Tree
+
 ### 5.c. Pembagian IP
+![Pembagian_IP](https://github.com/ishal24/Jarkom-Modul-4-IT13-2024/blob/main/img/Pembagian-IP-CIDR.png)
+
 ### 5.d. Testing
