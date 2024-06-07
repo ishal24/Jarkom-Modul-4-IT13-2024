@@ -66,6 +66,7 @@
 ![Subnet_K](https://github.com/ishal24/Jarkom-Modul-4-IT13-2024/blob/main/img/penggabungan/K.png)
 
 ### 5.b. Tree
+![Tree_CIDR](https://github.com/ishal24/Jarkom-Modul-4-IT13-2024/blob/main/img/tree/Tree-CIDR.jpg)
 
 ### 5.c. Pembagian IP
 ![Pembagian_IP](https://github.com/ishal24/Jarkom-Modul-4-IT13-2024/blob/main/img/Pembagian-IP-CIDR.png)
