@@ -73,6 +73,4 @@
 
 ### 5.d. Testing
 
-<video width="1920" height="1080" controls>
-  <source src="https://raw.githubusercontent.com/ishal24/Jarkom-Modul-4-IT13-2024/main/vid/Test_CIDR.mp4" type="video/mp4">
-</video>
+https://raw.githubusercontent.com/ishal24/Jarkom-Modul-4-IT13-2024/main/vid/Test_CIDR.mp4
